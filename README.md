@@ -18,4 +18,4 @@ Developed in **Python using Spyder** as part of my BSc Financial Mathematics deg
 
 ## Group Project
 
-Completed collaboratively as part of my BSc Financial Mathematics degree at Cardiff University.
+Completed collaboratively.
